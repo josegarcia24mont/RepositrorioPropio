@@ -1,0 +1,5 @@
+commit df650eb35cac0a2b43c3766e4a8d5f52249407fc
+Author: Jose García <joseagmont@gmail.com>
+Date:   Mon Mar 4 10:20:40 2024 -0600
+
+    IV variable Primer Examen Parcial
